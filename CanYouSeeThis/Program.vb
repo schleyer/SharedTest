@@ -5,5 +5,7 @@ Module Program
         Console.WriteLine("Hello World!")
         Console.WriteLine("Can You See This?")
         Console.WriteLine("")
+        Console.WriteLine("Yes I can!!!")
+        Console.WriteLine("")
     End Sub
 End Module
